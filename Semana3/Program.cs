@@ -47,12 +47,12 @@ namespace Semana3
             num2 = int.Parse(Console.ReadLine());
 
             Console.WriteLine();
-            Console.WriteLine("La suma es: " +(num1 + num2));
-            Console.WriteLine("La resta es: "+(num1 - num2));
-            Console.WriteLine("La multiplicación es:"+(num1 * num2));
+            Console.WriteLine("La suma es: " + (num1 + num2));
+            Console.WriteLine("La resta es: " + (num1 - num2));
+            Console.WriteLine("La multiplicación es:" + (num1 * num2));
             Console.WriteLine("La división es: " + (num1 / num2));
+            Console.WriteLine("El modulo es: " + (num1 % num2));
             Console.WriteLine();
-
         }
     }
 }
