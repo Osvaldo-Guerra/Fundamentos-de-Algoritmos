@@ -10,7 +10,7 @@ namespace Semana3
     {
         static void Main(string[] args)
         {
-            ejercicio5();
+            ejercicio8();
             Console.ReadKey();
         }
 
@@ -73,7 +73,7 @@ namespace Semana3
 
         static void ejercicio6()
         {
-            double num1, num2, num3;
+            double num1, num2, num3, promedio;
 
             // Ingresar los tres números decimales
             Console.Write("Ingresa el primer número decimal: ");
@@ -85,7 +85,9 @@ namespace Semana3
             Console.Write("Ingresa el tercer número decimal: ");
             num3 = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("El promedio es: " + ((num1 + num2 + num3) / 3));
+            promedio = (num1 + num2 + num3) / 3;
+
+            Console.WriteLine("El promedio es: " + promedio.ToString("F2"));
         }
 
         static void ejercicio7()
