@@ -5,3 +5,10 @@ C:\Aplicaciones\C#\Fundamentos de Algoritmos\Semana3\bin\Debug\Semana3.exe
 C:\Aplicaciones\C#\Fundamentos de Algoritmos\Semana3\bin\Debug\Semana3.pdb
 C:\Aplicaciones\C#\Fundamentos de Algoritmos\Semana3\obj\Debug\Semana3.exe
 C:\Aplicaciones\C#\Fundamentos de Algoritmos\Semana3\obj\Debug\Semana3.pdb
+C:\Users\User\Downloads\E.S\UPN - Universidad Privada del Norte\Cursos - UPN\PRIMER CICLO\Fundamentos de Algoritmos (Presencial)\Semana 3\Aplicaciones\C#\Fundamentos de Algoritmos\Semana3\bin\Debug\Semana3.exe.config
+C:\Users\User\Downloads\E.S\UPN - Universidad Privada del Norte\Cursos - UPN\PRIMER CICLO\Fundamentos de Algoritmos (Presencial)\Semana 3\Aplicaciones\C#\Fundamentos de Algoritmos\Semana3\bin\Debug\Semana3.exe
+C:\Users\User\Downloads\E.S\UPN - Universidad Privada del Norte\Cursos - UPN\PRIMER CICLO\Fundamentos de Algoritmos (Presencial)\Semana 3\Aplicaciones\C#\Fundamentos de Algoritmos\Semana3\bin\Debug\Semana3.pdb
+C:\Users\User\Downloads\E.S\UPN - Universidad Privada del Norte\Cursos - UPN\PRIMER CICLO\Fundamentos de Algoritmos (Presencial)\Semana 3\Aplicaciones\C#\Fundamentos de Algoritmos\Semana3\obj\Debug\Semana3.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\E.S\UPN - Universidad Privada del Norte\Cursos - UPN\PRIMER CICLO\Fundamentos de Algoritmos (Presencial)\Semana 3\Aplicaciones\C#\Fundamentos de Algoritmos\Semana3\obj\Debug\Semana3.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\E.S\UPN - Universidad Privada del Norte\Cursos - UPN\PRIMER CICLO\Fundamentos de Algoritmos (Presencial)\Semana 3\Aplicaciones\C#\Fundamentos de Algoritmos\Semana3\obj\Debug\Semana3.exe
+C:\Users\User\Downloads\E.S\UPN - Universidad Privada del Norte\Cursos - UPN\PRIMER CICLO\Fundamentos de Algoritmos (Presencial)\Semana 3\Aplicaciones\C#\Fundamentos de Algoritmos\Semana3\obj\Debug\Semana3.pdb
