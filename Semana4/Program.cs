@@ -10,7 +10,7 @@ namespace Semana4
     {
         static void Main(string[] args)
         {
-            ejercicio2();
+            ejercicio3();
             Console.ReadKey();
         }
 
@@ -51,8 +51,12 @@ namespace Semana4
             else
             {
                 Console.WriteLine("\nEs mayor de edad");
-            }
-            
+            }           
+        }
+
+        static void ejercicio3()
+        {
+
         }
     }
 }
