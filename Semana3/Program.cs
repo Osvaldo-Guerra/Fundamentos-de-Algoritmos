@@ -10,7 +10,7 @@ namespace Semana3
     {
         static void Main(string[] args)
         {
-            ejercicio6();
+            ejercicio5();
             Console.ReadKey();
         }
 
@@ -56,7 +56,7 @@ namespace Semana3
 
         static void ejercicio5()
         {
-            double baseT, altura;
+            double baseT, altura, area;
 
             // Ingresa la base
             Console.Write("Ingresa la base del triángulo: ");
@@ -66,7 +66,9 @@ namespace Semana3
             Console.Write("Ingresa la altura del triángulo: ");
             altura = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("El área del triángulo es: " + ((baseT * altura) / 2));
+            area = (baseT * altura) / 2;
+
+            Console.WriteLine("El área del triángulo es: " + area);
         }
 
         static void ejercicio6()
