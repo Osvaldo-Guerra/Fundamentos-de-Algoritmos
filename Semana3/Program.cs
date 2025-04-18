@@ -10,7 +10,7 @@ namespace Semana3
     {
         static void Main(string[] args)
         {
-            ejercicio8();
+            ejercicio10();
             Console.ReadKey();
         }
 
@@ -87,7 +87,8 @@ namespace Semana3
 
             promedio = (num1 + num2 + num3) / 3;
 
-            Console.WriteLine("El promedio es: " + promedio.ToString("F2"));
+            //Console.WriteLine("El promedio es: " + promedio.ToString("F2"));
+            Console.WriteLine("El promedio es: " + Math.Round(promedio,2));
         }
 
         static void ejercicio7()
@@ -101,8 +102,7 @@ namespace Semana3
             // Calcular el área usando la fórmula área = π * radio^2
             area = Math.PI * Math.Pow(radio, 2);
 
-            // F2 Muestra el resultado hasta con dos decimales
-            Console.WriteLine("El área del círculo es: " + area.ToString("F2"));
+            Console.WriteLine("El área del círculo es: " + Math.Round(area, 2));
         }
 
         static void ejercicio8()
@@ -117,8 +117,8 @@ namespace Semana3
             raiz = Math.Sqrt(numero);
             poten = Math.Pow(numero, 3);
 
-            Console.WriteLine("La raíz cuadrada es: " + raiz.ToString("F2"));
-            Console.WriteLine("La potencia a 3 es: " + poten.ToString("F2"));
+            Console.WriteLine("La raíz cuadrada es: " + Math.Round(raiz, 2));
+            Console.WriteLine("La potencia a 3 es: " + Math.Round(poten, 2));
         }
 
         static void ejercicio9()
@@ -175,22 +175,22 @@ namespace Semana3
 
             // Solo es true si ambos son true
             Console.WriteLine("Solo es true si ambos son true");
-            Console.WriteLine("x && y : " + (x && y));
+            Console.WriteLine("x && y = " + (x && y));
             Console.WriteLine();
 
             // Es true si al menos uno es true
             Console.WriteLine("Es true si al menos uno es true");
-            Console.WriteLine("x || y : " + (x || y));
+            Console.WriteLine("x || y = " + (x || y));
             Console.WriteLine();
 
             // Invierte el valor de x
             Console.WriteLine("Invierte el valor de x");
-            Console.WriteLine("!x : " + (!x));
+            Console.WriteLine("!x = " + (!x));
             Console.WriteLine();
 
             // Invierte el valor de y
             Console.WriteLine("Invierte el valor de y");
-            Console.WriteLine("!y : " + (!y));
+            Console.WriteLine("!y = " + (!y));
             Console.WriteLine();
         }
     }
