@@ -58,5 +58,20 @@ namespace Semana4
         {
 
         }
+
+        static void ejrcicio4()
+        {
+
+        }
+
+        static void ejercicio5()
+        {
+
+        }
+
+        static void ejercicio6()
+        {
+
+        }
     }
 }
