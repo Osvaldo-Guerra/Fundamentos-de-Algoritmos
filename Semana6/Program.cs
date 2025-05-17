@@ -133,7 +133,7 @@ namespace Semana6
             int intentos = 3;
             string ingreso;
 
-            Console.Write("Ingrese una contraseña: ");
+            Console.Write("Crea una contraseña: ");
             string contra = Console.ReadLine();
 
             Console.WriteLine("****************************\n");

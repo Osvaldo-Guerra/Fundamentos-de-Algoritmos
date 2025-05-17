@@ -1,0 +1,7 @@
+C:\Aplicaciones C#\Fundamentos de Algoritmos\Semana8.5\bin\Debug\Semana8.5.exe.config
+C:\Aplicaciones C#\Fundamentos de Algoritmos\Semana8.5\bin\Debug\Semana8.5.exe
+C:\Aplicaciones C#\Fundamentos de Algoritmos\Semana8.5\bin\Debug\Semana8.5.pdb
+C:\Aplicaciones C#\Fundamentos de Algoritmos\Semana8.5\obj\Debug\Semana8.5.csproj.AssemblyReference.cache
+C:\Aplicaciones C#\Fundamentos de Algoritmos\Semana8.5\obj\Debug\Semana8.5.csproj.CoreCompileInputs.cache
+C:\Aplicaciones C#\Fundamentos de Algoritmos\Semana8.5\obj\Debug\Semana8.5.exe
+C:\Aplicaciones C#\Fundamentos de Algoritmos\Semana8.5\obj\Debug\Semana8.5.pdb
