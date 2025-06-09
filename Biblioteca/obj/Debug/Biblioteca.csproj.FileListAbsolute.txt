@@ -1,0 +1,6 @@
+C:\Aplicaciones C#\Fundamentos de Algoritmos\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Aplicaciones C#\Fundamentos de Algoritmos\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Aplicaciones C#\Fundamentos de Algoritmos\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Aplicaciones C#\Fundamentos de Algoritmos\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Aplicaciones C#\Fundamentos de Algoritmos\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Aplicaciones C#\Fundamentos de Algoritmos\Biblioteca\obj\Debug\Biblioteca.pdb

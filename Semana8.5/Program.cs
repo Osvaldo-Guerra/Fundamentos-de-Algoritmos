@@ -15,7 +15,6 @@ namespace Semana8._5
 
             do
             {
-
                 do
                 {
                     Console.WriteLine("1. Suma");
@@ -29,10 +28,18 @@ namespace Semana8._5
                     Console.Clear();
 
                 } while (opcion < 0 || opcion >= 5);
+
+                if (opcion == 0)  // Salir del programa
+                {
+                    Console.WriteLine("Cerrando sistema");
+                    return; 
+                }
+
+
                 Console.Write("Ingrese x: ");
                 int x = int.Parse(Console.ReadLine());
 
-                Console.Write("Ingrese Y: ");
+                Console.Write("Ingrese y: ");
                 int y = int.Parse(Console.ReadLine());
 
                 switch (opcion)
