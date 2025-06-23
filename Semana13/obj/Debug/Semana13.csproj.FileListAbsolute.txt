@@ -1,0 +1,7 @@
+C:\Aplicaciones C#\Fundamentos de Algoritmos\Semana13\bin\Debug\Semana13.exe.config
+C:\Aplicaciones C#\Fundamentos de Algoritmos\Semana13\bin\Debug\Semana13.exe
+C:\Aplicaciones C#\Fundamentos de Algoritmos\Semana13\bin\Debug\Semana13.pdb
+C:\Aplicaciones C#\Fundamentos de Algoritmos\Semana13\obj\Debug\Semana13.csproj.AssemblyReference.cache
+C:\Aplicaciones C#\Fundamentos de Algoritmos\Semana13\obj\Debug\Semana13.csproj.CoreCompileInputs.cache
+C:\Aplicaciones C#\Fundamentos de Algoritmos\Semana13\obj\Debug\Semana13.exe
+C:\Aplicaciones C#\Fundamentos de Algoritmos\Semana13\obj\Debug\Semana13.pdb
